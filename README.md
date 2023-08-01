@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋<br><br>
+    I am Chandra Mohan</h1>
 
 <!--
 **ajsmith421/ajsmith421** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
