@@ -5,22 +5,15 @@
 ## Hey! 👋
 I'm Andrew, a web developer living in Virginia.
 
-- 🦔 Founder of 
-
-- 👨‍💻 Working at 
-
-- 🧭 Founder at 
-
-- 👥 Core team member at 
-
-+ a lot more ;)
-
 ## Skills
 - 👨‍💻 TypeScript, JavaScript, C#, etc...
 - ⚙️ React, Vue
 - 👁️ SASS, CSS
 - 💽 MSSQL
 + a lot more :D
+
+## Fun Fact
+I have traveled to over 30 countries. 
 
 ## Contact
 - Personal Website
