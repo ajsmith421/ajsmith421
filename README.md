@@ -6,14 +6,14 @@
 I'm Andrew, a web developer living in Virginia.
 
 ## Skills
-- 👨‍💻 TypeScript, JavaScript, C#, etc...
+- 👨‍💻 TypeScript, JavaScript, C#
 - ⚙️ React, Vue
 - 👁️ SASS, CSS
 - 💽 MSSQL
 + a lot more :D
 
 ## Fun Fact
-I have traveled to over 30 countries. 
+- ✈️ I have traveled to over 30 countries. 
 
 ## Contact
 - Personal Website
