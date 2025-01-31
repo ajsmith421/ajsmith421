@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/andrewsmith/andrewsmith/master/name.svg" alt="Andrew Smith" />
+  <img src="https://github.com/ajsmith421/ajsmith421/blob/main/name.svg" alt="Andrew Smith" />
 </h1>
 
 ## Hey! 👋
