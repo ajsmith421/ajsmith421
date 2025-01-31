@@ -1,17 +1,26 @@
-<h1 align="center">Hi there 👋<br><br>
-    I am Andrew Smith</h1>
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/andrewsmith/andrewsmith/master/name.svg" alt="Andrew Smith" />
+</h1>
 
-<!--
-**ajsmith421/ajsmith421** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hey! 👋
+I'm Andrew, a web developer living in Virginia.
 
-Here are some ideas to get you started:
+- 🦔 Founder of 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 Working at 
+
+- 🧭 Founder at 
+
+- 👥 Core team member at 
+
++ a lot more ;)
+
+## Skills
+- 👨‍💻 TypeScript, JavaScript, C#, etc...
+- ⚙️ React, Vue
+- 👁️ SASS, CSS
+- 💽 MSSQL
++ a lot more :D
+
+## Contact
+- Personal Website
