@@ -3,14 +3,14 @@
 </h1>
 
 ## Hey! 👋
-I'm Andrew, a web developer living in Virginia.
+I'm Andrew, a web developer living in Centreville, Virginia.
 
 ## Skills
 - 👨‍💻 TypeScript, JavaScript, C#
 - ⚙️ React, Vue
 - 👁️ SASS, CSS
 - 💽 MSSQL
-+ a lot more :D
++ a lot more 😁
 
 ## Fun Fact
 - ✈️ I have traveled to over 30 countries. 
