@@ -16,4 +16,4 @@ I'm Andrew, a web developer living in Virginia.
 - ✈️ I have traveled to over 30 countries. 
 
 ## Contact
-- Personal Website: https://portfoliositesmith.netlify.app/
+- Personal Website: ajsmith.netlify.app
